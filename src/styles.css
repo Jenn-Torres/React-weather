@@ -1,0 +1,16 @@
+.SearchEngine {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+body {
+  background: rgb(53, 53, 53);
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
