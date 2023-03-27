@@ -10,7 +10,11 @@ root.render(
   <StrictMode>
     <SearchEngine />
     <footer>
-      <a href="#" target="_blank" rel="nonreferrer">
+      <a
+        href="https://github.com/Jenn-Torres/React-weather"
+        target="_blank"
+        rel="nonreferrer"
+      >
         Open-source code{" "}
       </a>
       , by Jennifer Torres
